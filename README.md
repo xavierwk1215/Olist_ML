@@ -1,5 +1,7 @@
 # Olist_ML
 ## Tableau Link : https://public.tableau.com/app/profile/.58727610/viz/OlistsRevenueandOrderCount/Dashbord?publish=yes
+![image](https://github.com/xavierwk1215/Olist_ML/assets/138868050/ad2be538-7985-4eb7-b3c8-bf3f94ea48a7)
+
 ![Final_Eng_page-0001](https://github.com/xavierwk1215/Recipe_Reco/assets/138868050/ecf9a782-f436-49fa-8140-36374b509e37)
 ![Final_Eng_page-0002](https://github.com/xavierwk1215/Recipe_Reco/assets/138868050/169ff1d9-0675-4c50-81bb-31bcf0e59d71)
 ![Final_Eng_page-0003](https://github.com/xavierwk1215/Recipe_Reco/assets/138868050/922d2957-3276-4c4d-95cc-2c133fbed3d5)
